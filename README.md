@@ -28,7 +28,7 @@ Script en Bash diseñado para bloquear automáticamente sitios web maliciosos, a
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/pspedomex/bloqueador-dominios.git
+   git clone https://github.com/pspedomexmex/bloqueador-dominios.git
    cd bloqueador-dominios
 
 2. Da permisos de ejecución al script
